@@ -36,10 +36,12 @@
               "src/assets/css/animate.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/custom.css",
-              "src/assets/css/components/bs-switches.css"
+              "src/assets/css/components/bs-switches.css",
+              "src/assets/demos/seo/seo.css",
+              "src/assets/demos/seo/css/fonts.css"
+              
             ],
             "scripts": [
-
             ]
           },
           "configurations": {
